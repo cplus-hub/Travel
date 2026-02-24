@@ -83,7 +83,27 @@ Travel/
    ```
 3. 接著建立 `Day1.md`, `Day2.md` 等檔案即可。
 
-## 📦 自動部署 (GitHub Actions)
+## 📄 PDF 匯出與下載 (PDF Export)
+
+本專案提供兩種 PDF 輸出方式，方便離線閱讀或列印攜帶。
+
+### 1. 單日行程 PDF (自動生成)
+透過 Puppeteer 自動將每日行程網頁轉換為 A4 格式 PDF。
+*   **功能**: 轉換後的 PDF 存放於 `static/pdf/`，並在各文章頁面底部提供下載連結。
+*   **如何生成**:
+    1. 確保 Hugo 伺服器正在運行 (`hugo server`)。
+    2. 安裝依賴: `npm install`
+    3. 執行生成腳本:
+       ```bash
+       node generate-pdf.js
+       ```
+
+### 2. 完整行程匯出
+提供一個專門的列印預覽頁面，整合所有行程內容。
+*   **路徑**: `/pdf` (或點擊首頁的「📥 下載完整行程 PDF」按鈕)。
+*   **使用方式**: 進入頁面後，點擊「🖨️ 列印 / 儲存為 PDF」按鈕，並在瀏覽器列印視窗中選擇「另存為 PDF」。
+
+## � 自動部署 (GitHub Actions)
 
 本專案已設定 GitHub Actions workflow，推送到 GitHub 後會自動部署。
 

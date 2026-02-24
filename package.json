@@ -1,0 +1,24 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "這是一個使用 [Hugo](https://gohugo.io/) 建立的靜態旅遊部落格網站，專門用於記錄旅行攻略與行程。網站設計以「目的地」為核心，支援深色模式與客製化的行程展示首頁。",
+  "main": "generate-pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cplus-hub/Travel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cplus-hub/Travel/issues"
+  },
+  "homepage": "https://github.com/cplus-hub/Travel#readme",
+  "dependencies": {
+    "puppeteer": "^24.37.5"
+  }
+}
