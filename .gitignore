@@ -1,0 +1,17 @@
+# Hugo default output (建置產出的靜態網站)
+public/
+resources/_gen/
+.hugo_build.lock
+
+# System files (作業系統產生的檔案)
+.DS_Store
+Thumbs.db
+
+# Editor settings (編輯器設定檔)
+.vscode/
+.idea/
+*.swp
+
+# Node modules (如果有使用 npm 套件)
+node_modules/
+package-lock.json
