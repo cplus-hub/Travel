@@ -1,0 +1,41 @@
+<link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+{{ range .Site.Params.custom_css }}
+  <link rel="stylesheet" href="{{ . | relURL }}">
+{{ end }}
+
+<script>
+  (function() {
+    const themeKey = 'theme-preference';
+    
+    // 取得目前主題 (優先讀取 localStorage，否則讀取系統設定)
+    function getTheme() {
+      const stored = localStorage.getItem(themeKey);
+      if (stored) return stored;
+      return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    
+    // 設定主題
+    function setTheme(theme) {
+      if (theme === 'dark') {
+        document.body.classList.add('dark-mode');
+      } else {
+        document.body.classList.remove('dark-mode');
+      }
+      localStorage.setItem(themeKey, theme);
+      
+      // 更新按鈕圖示
+      const btn = document.getElementById('darkModeBtn');
+      if (btn) btn.innerText = theme === 'dark' ? '☀️' : '🌙';
+    }
+
+    // 頁面載入後執行
+    window.addEventListener('DOMContentLoaded', () => {
+      const btn = document.createElement('button');
+      btn.id = 'darkModeBtn';
+      btn.className = 'dark-mode-toggle';
+      btn.onclick = () => setTheme(document.body.classList.contains('dark-mode') ? 'light' : 'dark');
+      document.body.appendChild(btn);
+      setTheme(getTheme());
+    });
+  })();
+</script>

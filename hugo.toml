@@ -1,0 +1,9 @@
+baseURL = 'https://cplus-hub.github.io/Travel/'
+languageCode = 'zh-tw'
+title = 'My Travel Blog'
+theme = 'ananke'
+buildFuture = true
+disablePathToLower = true
+
+[params]
+  custom_css = ["css/dark-mode.css"]

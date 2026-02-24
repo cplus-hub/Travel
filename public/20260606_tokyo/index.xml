@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2026 東京探索 on My Travel Blog</title>
+    <link>http://localhost:1313/Travel/20260606_Tokyo/</link>
+    <description>Recent content in 2026 東京探索 on My Travel Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 06 Jun 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/Travel/20260606_Tokyo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 1: 澀谷與新宿</title>
+      <link>http://localhost:1313/Travel/20260606_Tokyo/Day1/</link>
+      <pubDate>Sat, 06 Jun 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/Travel/20260606_Tokyo/Day1/</guid>
+      <description>&lt;p&gt;抵達東京！第一天我們將探索澀谷的十字路口和新宿的繁華夜生活。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

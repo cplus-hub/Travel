@@ -1,0 +1,43 @@
+# Travel
+
+我要做放到github page 上的靜態網頁展示, 內容是關於旅行相關的內容攻略, 需要以日期與目的地作為資料夾分類, 
+請完成以下需求. 1. 網頁呈現如下路徑 
+/20260501_Okinawa 
+/20260501_Okinawa/Day1 
+/20260501_Okinawa/Day2 
+/20260501_Okinawa/Day3 
+/20260606_Tokyo 
+/20260606_Tokyo/Day1
+
+
+這是一個使用 [Hugo](https://gohugo.io/) 建立的現代化個人作品集與部落格網站。
+
+**線上預覽:** [https://cplus-hub.github.io/Travel](https://cplus-hub.github.io/Travel)
+
+---
+
+## 🛠️ 技術棧 (Technology Stack)
+
+- **靜態網站生成器**: Hugo
+- **前端**: HTML5, CSS3 (Flexbox, Grid, CSS Variables), Vanilla JavaScript (ES6+)
+
+---
+
+## 🚀 本地端運行 (Local Setup)
+
+1.  確保您已安裝 Hugo。
+2.  將此專案複製到您的本地電腦：
+    ```bash
+    git clone https://github.com/cplus-hub/Travel.git
+    ```
+3.  進入專案目錄：
+    ```bash
+    cd Travel
+    ```
+4.  啟動 Hugo 本地伺服器：
+    ```bash
+    hugo server
+    ```
+5.  在瀏覽器中開啟 `http://localhost:1313/` 即可看到網站。
+
+---
