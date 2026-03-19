@@ -36,8 +36,8 @@ async function generatePDF() {
     // 定義要轉換的頁面清單
     const pagesToConvert = [
       { path: '20260513_Okinawa/Day1/', filename: '20260513_Okinawa_Day1.pdf' },
-      { path: '20260513_Okinawa/Day2/', filename: '20260513_Okinawa_Day2.pdf' },
-      { path: '20260513_Okinawa/Day3/', filename: '20260513_Okinawa_Day3.pdf' }
+      // { path: '20260513_Okinawa/Day2/', filename: '20260513_Okinawa_Day2.pdf' },
+      // { path: '20260513_Okinawa/Day3/', filename: '20260513_Okinawa_Day3.pdf' }
     ];
 
     for (const item of pagesToConvert) {

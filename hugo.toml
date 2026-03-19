@@ -7,3 +7,8 @@ disablePathToLower = true
 
 [params]
   custom_css = ["css/dark-mode.css"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
