@@ -10,6 +10,14 @@ weight: 2
 
 <!--more-->
 
+<div class="w-100 ph2 mb4">
+    <img src="/Travel/images/departure.jpg" class="db w-100 br2 shadow-4" alt="機票">
+    <h3 class="f4 mv2">飛機出發時間 - 6:50(台灣時間)</br>
+    航&nbsp;&nbsp;&nbsp;行&nbsp;&nbsp;時&nbsp;&nbsp;間&nbsp; - 1:30</br>
+    預計抵達時間 - 9:20(日本時間)
+    </h3>
+</div>
+
 <div class="flex flex-wrap -mx2 mt4">
     <div class="w-100 w-50-ns ph2 mb4">
         <img src="/Travel/images/Day1_airport.jpg" class="db w-100 br2 shadow-4" alt="機場">
@@ -18,7 +26,7 @@ weight: 2
     </div>
     <div class="w-100 w-50-ns ph2 mb4">
         <img src="/Travel/images/Day1_getcar.jpg" class="db w-100 br2 shadow-4" alt="取車">
-        <h3 class="f4 mv2">搭電車至11 點赤嶺站取車</h3>
+        <h3 class="f4 mv2">搭電車至赤嶺站取車（與車行約11點）</h3>
         <p class="lh-copy f6"></p>
     </div>
     <div class="w-100 w-50-ns ph2 mb4">
@@ -52,5 +60,7 @@ weight: 2
         <p class="lh-copy f6">好好休息，躺躺</p>
     </div>
 </div>
+
+[🔙 回行程總覽](../)
 
 [📥 下載本頁 PDF](/Travel/pdf/20260513_Okinawa_Day1.pdf)
