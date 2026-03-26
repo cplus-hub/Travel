@@ -4,7 +4,11 @@ date: 2026-05-13
 weight: 2
 summary: 1.抵達機場 -> 2.取車 -> 3.午餐 泊港漁市場 -> <br>4.PARCO CITY 購物 -> 5.美國村 -> 6.殘波岬 -> 7.萬座毛 -> <br>8.飯店 - KARIYUSHI LCH.RESORT on The Beach
 ---
+<div style="color:red;">
 
+##   第一航廈  5/13早上四點、7號虎航櫃檯集合
+
+</div>
 <div class="w-100 ph2 mb4">
     <img src="/Travel/images/departure.jpg" class="db w-100 br2 shadow-4" alt="機票">
     <h3 class="f4 mv2">飛機出發時間 - 6:50(台灣時間)</br>

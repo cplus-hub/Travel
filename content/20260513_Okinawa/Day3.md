@@ -58,7 +58,7 @@ summary: 1.飯店早餐 -> 2.Kaichu Rd（海中道路） -> 3.果報崖 -><br>4.
     <div class="w-100 w-50-ns ph2 mb4">
         <img src="/Travel/images/Day3_東雲小吃店.jpg" class="db w-100 br2 shadow-4" alt="東雲小吃店">
         <h3 class="f4 mv2">晚餐 - 東雲小吃店</h3>
-        <p class="lh-copy f6">Check-in</p>
+        <p class="lh-copy f6"></p>
     </div>
     <div class="w-100 w-50-ns ph2 mb4">
         <div class="w-100 ph1">
