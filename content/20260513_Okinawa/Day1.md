@@ -2,13 +2,8 @@
 title: "Day 1: 沖繩我來了！"
 date: 2026-05-13
 weight: 2
+summary: 1.抵達機場 -> 2.取車 -> 3.午餐 泊港漁市場 -> <br>4.PARCO CITY 購物 -> 5.美國村 -> 6.殘波岬 -> 7.萬座毛 -> <br>8.飯店 - KARIYUSHI LCH.RESORT on The Beach
 ---
-1.抵達機場 -> 2.取車 -> 3.午餐 泊港漁市場 ->  
-4.PARCO CITY 購物 -> 5.美國村 -> 6.殘波岬 -> 7.萬座毛 ->  
-8.飯店 - KARIYUSHI LCH.RESORT on The Beach
-
-
-<!--more-->
 
 <div class="w-100 ph2 mb4">
     <img src="/Travel/images/departure.jpg" class="db w-100 br2 shadow-4" alt="機票">
@@ -17,6 +12,10 @@ weight: 2
     預計抵達時間 - 9:20(日本時間)
     </h3>
 </div>
+
+1.抵達機場 -> 2.取車 -> 3.午餐 泊港漁市場 ->  
+4.PARCO CITY 購物 -> 5.美國村 -> 6.殘波岬 -> 7.萬座毛 ->  
+8.飯店 - KARIYUSHI LCH.RESORT on The Beach
 
 <div class="flex flex-wrap -mx2 mt4">
     <div class="w-100 w-50-ns ph2 mb4">
