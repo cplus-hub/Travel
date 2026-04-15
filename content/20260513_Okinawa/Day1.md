@@ -60,7 +60,8 @@ summary: 1.抵達機場 -> 2.取車 -> 3.午餐 泊港漁市場 -> <br>4.PARCO C
     <div class="w-100 w-50-ns ph2 mb4">
         <img src="/Travel/images/Day1_hotel.jpg" class="db w-100 br2 shadow-4" alt="飯店">
         <h3 class="f4 mv2">住宿飯店 - KARIYUSHI LCH.RESORT on The Beach</h3>
-        <p class="lh-copy f6">好好休息，躺躺</p>
+        <p class="lh-copy f6">1996 Kise, Nago City, Okinawa Prefecture, 905-0026, Japan</p>
+        <p class="lh-copy f6">+81-980-549900</p>
     </div>
 </div>
 
