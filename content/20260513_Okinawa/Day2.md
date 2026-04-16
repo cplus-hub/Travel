@@ -2,13 +2,14 @@
 title: "Day 2: 美麗海水族館！"
 date: 2026-05-14
 weight: 3
-summary: 1.飯店早餐 -> 2.許田休息站 -> 3.邊戶岬 -> <br>4.古宇利大橋南端觀景台 -> 5.古宇利島休息站 -> 6.心形岩 -> <br> 7.午餐 - 古宇利蝦蝦飯或海人の駅 -> <br> 8.水族館 -> 9.晚餐 - 暖暮拉麵 -> 10.飯店 - KARIYUSHI LCH.RESORT on The Beach
+summary: 1.飯店早餐 -> 2.許田休息站 -> 3.邊戶岬 -> <br>4.古宇利大橋南端觀景台 -> 5.古宇利島休息站 -> 6.心形岩 -> <br> 7.午餐 - 古宇利蝦蝦飯或海人の駅 -> <br> 8.水族館 -> 9.星巴克 -> 10.晚餐 - 暖暮拉麵 -> <br> 11.飯店 - KARIYUSHI LCH.RESORT on The Beach
 ---
 
 1.飯店早餐 -> 2.許田休息站 -> 3.邊戶岬 ->  
 4.古宇利大橋南端觀景台 -> 5.古宇利島休息站 -> 6.心形岩 ->  
 7.午餐 - 古宇利蝦蝦飯或海人の駅 ->  
-8.水族館 -> 9.晚餐 - 暖暮拉麵 -> 10.飯店 - KARIYUSHI LCH.RESORT on The Beach
+8.水族館 -> 9.星巴克 -> 10.晚餐 - 暖暮拉麵 ->  
+11.飯店 - KARIYUSHI LCH.RESORT on The Beach
 
 ## 上午
 
@@ -67,6 +68,11 @@ summary: 1.飯店早餐 -> 2.許田休息站 -> 3.邊戶岬 -> <br>4.古宇利�
         <img src="/Travel/images/Day2_aquarium.jpg" class="db w-100 br2 shadow-4" alt="水族館">
         <h3 class="f4 mv2">景點 - 沖繩美麗海水族館</h3>
         <p class="lh-copy f6">到水族館看魚</p>
+    </div>
+    <div class="w-100 w-50-ns ph2 mb4">
+        <img src="/Travel/images/Day2_星巴克.png" class="db w-100 br2 shadow-4" alt="星巴克">
+        <h3 class="f4 mv2">景點 - 沖繩最美星巴克</h3>
+        <p class="lh-copy f6">4月新開幕！</p>
     </div>
     <div class="w-100 w-50-ns ph2 mb4">
         <img src="/Travel/images/Day2_dinner.jpg" class="db w-100 br2 shadow-4" alt="暖暮拉麵">
